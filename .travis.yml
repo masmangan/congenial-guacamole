@@ -1,2 +1,2 @@
 language: java
-script: mvn -f ./t1/pom.xml
+script: mvn test -f ./t1/pom.xml
